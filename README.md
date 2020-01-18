@@ -47,8 +47,6 @@ and you'll see 3 boxes in blank, doesn't matter if you are familiar with HTML an
 ## Part 1
 **Just copy and paste**
 ```html =
-<!–– FRONT ––>
-
 <table class="Question">
    <td class= "Centrado">
       <div style='text-transform: uppercase; font-size: 13px;  font-style: bold;  color: #f0ad4e'> 
@@ -156,7 +154,6 @@ td {
 ## Part 3
 
 ```html =
-<!–– BACK ––>
 <table class="Question">
    <td class= "Centrado">
       <div style='text-transform: uppercase; font-size: 13px;  font-style: bold;  color: #f0ad4e'>{{Category or Pronunciation}}</div>
