@@ -1,0 +1,137 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:400,600");
+* {
+  margin: 0;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: #24292e;
+  padding-top: 20px;
+}
+
+body img {
+  max-width: auto;
+  max-height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  border-radius: 15px;
+  -webkit-box-shadow: 0px 0px 8px #2c3e50;
+          box-shadow: 0px 0px 8px #2c3e50;
+}
+
+body .cloze {
+  color: #f0ad4e;
+}
+
+body .card {
+  width: 80%;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 15px;
+  color: #dcdcdc;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+body .card .center {
+  text-align: center;
+}
+
+body .card .left {
+  text-align: left;
+}
+
+body .card .right {
+  text-align: right;
+}
+
+body .card .header {
+  font-size: 27px;
+  color: #fffafa;
+  background-color: #2f3338;
+  border-radius: 15px 15px 0px 0px;
+  opacity: 0.95;
+  -webkit-box-shadow: 0px 0px 10px #16191a;
+          box-shadow: 0px 0px 10px #16191a;
+}
+
+body .card .header .category {
+  background-color: #313d7a0c;
+  text-transform: uppercase;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #f0ad4e;
+  padding: 10px;
+}
+
+body .card .header .question {
+  font-size: 2rem;
+  padding: 10px;
+}
+
+body .card .content {
+  background-color: #343a40;
+  color: #bfcacf;
+  opacity: 1;
+  color: #fff;
+  display: relative;
+  border-radius: 0px 0px 10px 10px;
+  -webkit-box-shadow: 0px 0px 10px #16191a;
+          box-shadow: 0px 0px 10px #16191a;
+}
+
+body .card .content .front {
+  font-size: 14px;
+  color: #bfcacf;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  opacity: 1;
+  font-size: 1.2rem;
+}
+
+body .card .content .back {
+  font-size: 14px;
+  color: #bfcacf;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  opacity: 1;
+  font-size: 1.2rem;
+}
+
+body .card .content .clue {
+  font-weight: bold;
+  color: #fff;
+  top: -20px;
+  font-size: 1rem;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+body .card .content .clue .tag {
+  background: #d9534f;
+  padding: 0.5em 1em;
+}
+
+body .card .content .clue .info {
+  background-color: #24292e;
+  opacity: 0.9;
+  border-radius: 0px 10px 10px 0;
+  padding: 0.5em 1em;
+}
+
+body .card .content .hashtag {
+  color: #bef306;
+  font-size: 0.8rem;
+  padding: 10px;
+  font-style: italic;
+}
+/*# sourceMappingURL=styles.css.map */
