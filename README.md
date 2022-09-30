@@ -47,7 +47,8 @@ Front - Back & Styling
 
 Now just close the window, it will automatically save it!
 And that's pretty much it, we are done! :) 
-Now it's time to add a normal note as you have always done it, but you have to be conscious about the information for each field, so I'll add an example:
+
+Now it's time to add a normal note, you need to chose the card type that just created, so we can fill out some fields:
 
 ![7](https://user-images.githubusercontent.com/25715005/193287094-f9d58fee-b53b-46a0-a4f1-1a798d4431e8.png)
 
@@ -62,9 +63,9 @@ And finaly you can add some Tags to help you organize it more.
 
 At the end it would look like this on your PC
 
-## Front: <img width="403" alt="image" src="https://user-images.githubusercontent.com/25715005/193287237-5454a99c-1ecc-4544-b918-dcc9c5d7484d.png">
+## Front: <img alt="image" src="https://user-images.githubusercontent.com/25715005/193287237-5454a99c-1ecc-4544-b918-dcc9c5d7484d.png">
 
-## Back: <img width="402" alt="image" src="https://user-images.githubusercontent.com/25715005/193287290-465e3f3d-0eb0-491e-b251-73ed805772a1.png">
+## Back: <img alt="image" src="https://user-images.githubusercontent.com/25715005/193287290-465e3f3d-0eb0-491e-b251-73ed805772a1.png">
 
 
 Let me know if there is any question regarding to this Anki Tutorial.
