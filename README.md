@@ -3,7 +3,7 @@
 **Easy steps for settings to get Dark Mode on your Anki Cards (Step by step) with imgages**
 Final result:
 
-<img width="406" alt="image" src="https://user-images.githubusercontent.com/25715005/193287377-e20b9ba0-c779-45c8-ae46-0f87d9d28370.png">
+<img alt="image" src="https://user-images.githubusercontent.com/25715005/193287377-e20b9ba0-c779-45c8-ae46-0f87d9d28370.png">
 
 ## Step 1
 Open Anki on your computer and Go to Tools > Manage Note Types
