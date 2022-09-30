@@ -8,6 +8,7 @@ body {
   background-color: #24292e;
   padding-top: 20px;
   width: 100%;
+  margin: 0;
 }
 
 body img {
@@ -19,7 +20,7 @@ body img {
   margin-top: 15px;
   border-radius: 15px;
   -webkit-box-shadow: 0px 0px 8px #2c3e50;
-          box-shadow: 0px 0px 8px #2c3e50;
+  box-shadow: 0px 0px 8px #2c3e50;
 }
 
 body .cloze {
@@ -54,7 +55,7 @@ body .card .header {
   border-radius: 15px 15px 0px 0px;
   opacity: 0.95;
   -webkit-box-shadow: 0px 0px 10px #16191a;
-          box-shadow: 0px 0px 10px #16191a;
+  box-shadow: 0px 0px 10px #16191a;
 }
 
 body .card .header .category {
@@ -79,10 +80,11 @@ body .card .content {
   display: relative;
   border-radius: 0px 0px 10px 10px;
   -webkit-box-shadow: 0px 0px 10px #16191a;
-          box-shadow: 0px 0px 10px #16191a;
+  box-shadow: 0px 0px 10px #16191a;
 }
 
 body .card .content .front {
+  padding: 10px;
   font-size: 14px;
   color: #bfcacf;
   padding-top: 20px;
@@ -93,6 +95,7 @@ body .card .content .front {
 }
 
 body .card .content .back {
+  padding: 10px;
   font-size: 14px;
   color: #bfcacf;
   padding-top: 20px;
@@ -106,6 +109,7 @@ body .card .content .clue {
   font-weight: bold;
   color: #fff;
   top: -20px;
+  margin: 0 auto;
   font-size: 1rem;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
@@ -115,11 +119,24 @@ body .card .content .clue {
 body .card .content .clue .tag {
   background: #d9534f;
   padding: 0.5em 1em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 body .card .content .clue .info {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
   background-color: #24292e;
   opacity: 0.9;
+  margin-right: 20px;
   border-radius: 0px 10px 10px 0;
   padding: 0.5em 1em;
 }
