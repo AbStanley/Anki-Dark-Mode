@@ -1,31 +1,32 @@
 # Dark Mode | Anki Cards
 ## Description
+**Easy steps for settings to get Dark Mode on your Anki Cards (Step by step) with imgages**
+Final result:
 
-**Advance settings to get Dark Mode on your Anki Cards (Step by step) with imgs**
+![8](https://user-images.githubusercontent.com/25715005/193285728-d5060a63-e445-45dd-98a3-cc8521dd0216.png)
 
 ## Step 1
-
-Go to Tools > Manage Note Types
-
-![](https://i.imgur.com/iovbqn7.png)
+Open Anki on your computer and Go to Tools > Manage Note Types
+![0](https://user-images.githubusercontent.com/25715005/193285892-d8f75dc4-1c53-4c7a-a995-5ec9b0186d2c.png)
 
 After that click on "Add" button to create another Note Type, and just click "Ok"
 
-![](https://i.imgur.com/AUA7iFS.png)
+![1](https://user-images.githubusercontent.com/25715005/193286081-5d48f442-284e-482c-a17b-d2fb3f7423c7.png)
 
 and Choose a name for the new Note Type, in my case, I wrote it like this:
+![2](https://user-images.githubusercontent.com/25715005/193286152-c2bc1228-947b-4aae-89e0-1a0face3a33d.png)
 
-![](https://i.imgur.com/J3uZnaG.png)
 
 And click "Ok"
 ## Step 2
-Now you will have a new option "Pro Dark Mode Cloze", click that one you just created and Click on "Fields"
-![](https://i.imgur.com/dvo9xXP.png)
+Now you will have a new option "Pro Dark Mode", click that one you just created and Click on "Fields"
+
+![3](https://user-images.githubusercontent.com/25715005/193286284-b4fec950-b0ae-4158-9565-6a0b001393a4.png)
 
 And you'll add 5 Fields named:
 
-Front
-Back
+Question
+Content
 Hint
 Clue
 Category or Pronunciation
