@@ -8,13 +8,14 @@
     <body>
         <div class="card">
             <div class="header center">
-                <p class="category">{{Category or Pronunciation}}</p>
-                <p class="question">{{Question}}</p>
+                <p class="question-revealed">{{Question}}</p>
+
 
             </div>
             <div class="content">
                 <div class="back center">
-                    {{Content}}
+										{{cloze:Content}}
+										{{Back Extra}}
                 </div>
                 <div class="clue left">
                     <p class="tag">Clue:</p>
@@ -26,3 +27,5 @@
         </div>
     </body>
 </html>
+
+
