@@ -6,21 +6,21 @@
 
 body {
   background-color: #24292e;
-  padding-top: 20px;
+  padding-top: 5px;
   width: 100%;
   margin: 0;
 }
 
 body img {
   max-width: auto;
-  max-height: 250px;
+  max-height: 200px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 15px;
+  margin-top: 5px;
   border-radius: 15px;
   -webkit-box-shadow: 0px 0px 8px #2c3e50;
-  box-shadow: 0px 0px 8px #2c3e50;
+          box-shadow: 0px 0px 8px #2c3e50;
 }
 
 body .cloze {
@@ -28,9 +28,9 @@ body .cloze {
 }
 
 body .card {
-  width: 80%;
+  width: 95%;
   font-family: "Lato", sans-serif;
-  font-size: 15px;
+  font-size: 14px;
   color: #dcdcdc;
   padding: 10px;
   margin: 0 auto;
@@ -55,21 +55,29 @@ body .card .header {
   border-radius: 15px 15px 0px 0px;
   opacity: 0.95;
   -webkit-box-shadow: 0px 0px 10px #16191a;
-  box-shadow: 0px 0px 10px #16191a;
+          box-shadow: 0px 0px 10px #16191a;
 }
 
 body .card .header .category {
   background-color: #313d7a0c;
   text-transform: uppercase;
-  font-size: 1rem;
+  font-size: 0.6rem;
   font-weight: 400;
   color: #f0ad4e;
   padding: 10px;
 }
 
 body .card .header .question {
-  font-size: 2rem;
-  padding: 10px;
+  font-size: 1.8rem;
+  padding-bottom: 10px;
+}
+
+body .card .header .question-revealed {
+  text-transform: uppercase;
+  padding: 5px;
+  color: #f0ad4e;
+  font-weight: 400;
+  font-size: 0.6rem;
 }
 
 body .card .content {
@@ -80,7 +88,7 @@ body .card .content {
   display: relative;
   border-radius: 0px 0px 10px 10px;
   -webkit-box-shadow: 0px 0px 10px #16191a;
-  box-shadow: 0px 0px 10px #16191a;
+          box-shadow: 0px 0px 10px #16191a;
 }
 
 body .card .content .front {
@@ -102,7 +110,7 @@ body .card .content .back {
   padding-bottom: 20px;
   text-align: center;
   opacity: 1;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 body .card .content .clue {
@@ -123,8 +131,8 @@ body .card .content .clue .tag {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 body .card .content .clue .info {
@@ -132,8 +140,8 @@ body .card .content .clue .info {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
   background-color: #24292e;
   opacity: 0.9;
   margin-right: 20px;
@@ -147,3 +155,4 @@ body .card .content .hashtag {
   padding: 10px;
   font-style: italic;
 }
+/*# sourceMappingURL=styles.css.map */
