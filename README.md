@@ -50,7 +50,7 @@ And that's pretty much it, we are done! :)
 
 Now it's time to add a normal note, you need to chose the card type that just created, so we can fill out some fields:
 
-![7](https://user-images.githubusercontent.com/25715005/193287094-f9d58fee-b53b-46a0-a4f1-1a798d4431e8.png)
+![image](https://user-images.githubusercontent.com/25715005/193537738-3c3d33fd-d969-41f8-90b3-565449289614.png)
 
 
 **Hint**: It Doesn't need much explanation, it's just a Hint to help you to remember the word.
